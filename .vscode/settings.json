@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "cjmcu_1100.h": "c"
+    }
+}
